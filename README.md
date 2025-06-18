@@ -1,6 +1,6 @@
 ## Hiii 👋 nice to meet you, my name is Woodward (Buz) Galbraith
-- 🎓 [CS/Computational Biology PhD student](https://www.khoury.northeastern.edu/research_areas/computational-biology/) @ Khoury - Northeastern University, in the [Gyori Lab for Computational Biomedicine](https://gyorilab.github.io/)
-- 📊 MS + BA in Data Science @ [NYU Center for Data Science](https://cds.nyu.edu/)
+- 🎓 [CS/Computational Biology PhD student](https://www.khoury.northeastern.edu/research_areas/computational-biology/) @ Khoury - Northeastern, in the [Gyori Lab for Computational Biomedicine](https://gyorilab.github.io/)
+- 📊 MS + Undergrad @ [NYU Center for Data Science](https://cds.nyu.edu/)
 - 🌎 Based in NYC/Boston
 - 🌊 In my free time I love running, exploring new coffee shops and playing video games
 - 🤝 Actively seeking collaborations, so if you are interested in working on a project together please feel free to reach out @ w.galbraith@northeastern.edu
