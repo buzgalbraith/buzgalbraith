@@ -14,7 +14,7 @@
 - Research Associate @ [MSK Dey Lab](https://www.mskcc.org/research/ski/labs/kushal-dey)
 - Research Assistant @ [NYU Langone Cirrone Lab](https://github.com/jacirrone)
 
-
+<!-- 
 📈 my github stats
 <table>
   <tr>
@@ -25,7 +25,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-toplangs" width="400" height="300"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--
 **buzgalbraith/buzgalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
