@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-gitstats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-gitstats" height="219"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-toplangs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-toplangs" width="400" height="300"/>
     </td>
   </tr>
 </table>
