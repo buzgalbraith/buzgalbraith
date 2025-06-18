@@ -1,31 +1,20 @@
 ## Hiii 👋 nice to meet you, my name is Woodward (Buz) Galbraith
-- [CS/Computational Biology PhD student](https://www.khoury.northeastern.edu/research_areas/computational-biology/) @ Khoury - Northeastern University, in the [Gyori Lab for Computational Biomedicine](https://gyorilab.github.io/)
-- MS + BA in Data Science @ [NYU Center for Data Science](https://cds.nyu.edu/)
-- NYC/Boston
-- Actively looking for collaborations, so if you are interested in working on a project together please feel free to reach out @ w.galbraith@northeastern.edu
-### Interests
+- 🎓 [CS/Computational Biology PhD student](https://www.khoury.northeastern.edu/research_areas/computational-biology/) @ Khoury - Northeastern University, in the [Gyori Lab for Computational Biomedicine](https://gyorilab.github.io/)
+- 📊 MS + BA in Data Science @ [NYU Center for Data Science](https://cds.nyu.edu/)
+- 🌎 Based in NYC/Boston
+- 🌊 In my free time I love running, exploring new coffee shops and playing video games
+- 🤝 Actively seeking collaborations, so if you are interested in working on a project together please feel free to reach out @ w.galbraith@northeastern.edu
+### 🔬 Interests
 - Biomedical knowledge integration 
 - Graphical Algorithms
 - Causal Inference
 - Cancer Biology
-### Selected Past Research
-- Data Scientist @ [The Kaiser Permanente Division of Research](https://divisionofresearch.kaiserpermanente.org/)
-- Computational Biologist @ [NYU Hochwagen Lab](https://hochwagenlab.bio.nyu.edu/) 
-- Research Associate @ [MSK Dey Lab](https://www.mskcc.org/research/ski/labs/kushal-dey)
-- Research Assistant @ [NYU Langone Cirrone Lab](https://github.com/jacirrone)
-
-<!-- 
-📈 my github stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-gitstats" height="219"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzgalbraith&show_icons=true&theme=gotham&layout=compact" alt="buzgalbraith-toplangs" width="400" height="300"/>
-    </td>
-  </tr>
-</table> -->
+### 🙏Gratitude
+A few teams and labs I’ve had the privilege to work with:
+- Computational Biologist @ NYU Department of Biology: [Hochwagen Lab](https://hochwagenlab.bio.nyu.edu/) 
+- Research Associate @ MSK: [Dey Lab](https://www.mskcc.org/research/ski/labs/kushal-dey)
+- Data Scientist @ Kaiser Permanente Division of Research: [Dr. Lauren Liao](https://divisionofresearch.kaiserpermanente.org/researchers/liao-lauren/), [Dr. Vignesh Arasu](https://divisionofresearch.kaiserpermanente.org/researchers/arasu-vignesh/) and [Dr. Elizabeth Feliciano](https://divisionofresearch.kaiserpermanente.org/researchers/cespedes-feliciano-elizabeth/)
+- Research Assistant @ NYU Langone: [Cirrone Lab](https://github.com/jacirrone)
 
 <!--
 **buzgalbraith/buzgalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
