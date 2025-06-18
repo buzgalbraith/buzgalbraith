@@ -14,4 +14,5 @@ A few researchers and labs I’ve had the privilege to work with:
 - Data Scientist @ Kaiser Permanente Division of Research: [Dr. Lauren Liao](https://divisionofresearch.kaiserpermanente.org/researchers/liao-lauren/), [Dr. Vignesh Arasu](https://divisionofresearch.kaiserpermanente.org/researchers/arasu-vignesh/) and [Dr. Elizabeth Feliciano](https://divisionofresearch.kaiserpermanente.org/researchers/cespedes-feliciano-elizabeth/)
 - Computational Biologist @ NYU Department of Biology: [Hochwagen Lab](https://hochwagenlab.bio.nyu.edu/) 
 - Research Associate @ MSK: [Dey Lab](https://www.mskcc.org/research/ski/labs/kushal-dey)
-- Research Assistant @ NYU Langone: [Cirrone Lab](https://github.com/jacirrone)
+- Research Assistant @ NYU Langone: [Cirrone Lab](https://github.com/jacirrone) and [Deniz Lab](https://med.nyu.edu/faculty/cem-m-deniz)
+- AI/Machine Learning Intern @ Aurora Flight Sciences (Boeing) : [Dr. Max Greene](https://ncr.mae.ufl.edu/index.php?id=people/MaxGreene) and [Dr. Johnathan How](https://www.mit.edu/~jhow/)
