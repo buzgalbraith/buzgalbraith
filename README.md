@@ -6,9 +6,9 @@
 - 🤝 Actively seeking collaborations, so if you are interested in working on a project together please feel free to reach out @ w.galbraith@northeastern.edu
 ### 🔬 Interests
 - Biomedical knowledge integration 
-- Graphical Algorithms
-- Causal Inference
-- Cancer Biology
+- Graphical algorithms
+- Causal inference
+- Cancer biology
 ### 🙏Gratitude
 A few researchers and labs I’ve had the privilege to work with:
 - Data Scientist @ Kaiser Permanente Division of Research: [Dr. Lauren Liao](https://divisionofresearch.kaiserpermanente.org/researchers/liao-lauren/), [Dr. Vignesh Arasu](https://divisionofresearch.kaiserpermanente.org/researchers/arasu-vignesh/) and [Dr. Elizabeth Feliciano](https://divisionofresearch.kaiserpermanente.org/researchers/cespedes-feliciano-elizabeth/)
