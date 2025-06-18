@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hiii 👋 nice to meet you, my name is Woodward (Buz) Galbraith
+### Current Work
+    - I am a [CS PhD student](https://www.khoury.northeastern.edu/programs/computer-science-phd/) Northeastern University - Khoury College of Computer Sciences, working in the [Computational Biology research area](https://www.khoury.northeastern.edu/research_areas/computational-biology/).  
+    -  
 <!--
 **buzgalbraith/buzgalbraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
